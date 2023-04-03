@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Fabio</h1>
+<h1 align="left">Hi 👋, I'm Fabio</h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fab-Ver&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Fab-Ver" /></p>
 
