@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hi 👋, I'm Fabio</h1>
-
+<h2 align="left"> GitHub Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Fab-Ver&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Fab-Ver" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
